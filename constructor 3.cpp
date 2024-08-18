@@ -30,7 +30,7 @@ class A{
 
 int main()
 {
-	A obj1; //when there is no parametr while creating object=Default 
+	A obj; //when there is no parametr while creating object=Default 
 	A obj1(90,100);//when there is parameter while creating object=Parameterized
 	A obj2=obj1;
 	 
