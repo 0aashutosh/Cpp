@@ -31,7 +31,7 @@ class meter{
 	
 		void display()
 		{
-			cout<<"Input in Total meter is: "<<m<<endl;
+			cout<< "Input in Total meter is: "<<m<<endl;
 		}
 };
 
